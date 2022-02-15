@@ -1,6 +1,9 @@
 # AcquisitionInnovation
 Modernized data analytics, and advanced technologies for federal procurement
-Code posted in accordance with Federal Open Source Policy (see code.cov).
+
+Project includes two branches:
+1. Code for analysis of structured contract transaction reports from USASpending.gov.
+2. Code for naturual language processing on contract documents and other supporting documents in government contract files.
 
 Guiding Principles:
 
